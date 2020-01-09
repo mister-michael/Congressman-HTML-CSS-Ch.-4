@@ -1,0 +1,57 @@
+.body {
+    zoom: 150%;;
+}
+
+.lamarFlexBox {
+    display:flex;
+    border: 1px dotted red;
+    padding: 5px;
+    margin: 5px;
+}
+
+.lamarInfo {
+margin: 1%;;
+}
+
+.name {
+    font-size: 50px;
+}
+
+.party {
+    font-style: italic;
+    margin: 1%;
+}
+
+.committees {
+    border: 1px dotted blue;
+    padding: 5px;
+    margin: 5px;
+}
+
+.committee--title {
+font-size: 22px;
+margin: 10px;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+li {
+    padding: 2px;
+}
+
+.legislation {
+    border: 1px dotted red;
+    padding: 5px;
+    margin: 5px;
+}
+.legislationHeader {
+    font-size: 22px;
+    margin: 10px;
+}
+
+.legislation--list {
+
+}
